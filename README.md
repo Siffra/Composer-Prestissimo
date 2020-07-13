@@ -1,2 +1,2 @@
-# composer-prestissimo
+# Composer-Prestissimo
 PHP Composer with Prestissimo
